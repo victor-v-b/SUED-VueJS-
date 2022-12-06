@@ -1,9 +1,5 @@
 <template>
-  <nav>
-    <router-link to="/">Home</router-link> |
-    <router-link to="/about">About</router-link>
-  </nav>
-  <router-view/>
+  <router-view />
 </template>
 
 <style>
@@ -15,16 +11,14 @@
   color: #2c3e50;
 }
 
-nav {
-  padding: 30px;
+.resize-enter-active,
+.resize-leave-active {
+  transition: scale 3.5s ease;
 }
 
-nav a {
-  font-weight: bold;
-  color: #2c3e50;
+.resize-enter-from,
+.resize-leave-to {
+  scale: 0;
 }
 
-nav a.router-link-exact-active {
-  color: #42b983;
-}
 </style>
