@@ -9,7 +9,7 @@
             <button @click="payload" :disabled="perguntaEscrita === ''">Resposta</button>
         </div>
         <div>
-            Informações
+            <router-link to="/YAKULT">Informações</router-link>
         </div>
         <div>
             <router-link to="/"> sair </router-link>

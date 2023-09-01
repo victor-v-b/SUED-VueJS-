@@ -7,7 +7,14 @@ const routes = [
     , name: 'inicio'
     , component: () => import('../views/InicioView.vue')
   }
-  , {
+  ,
+  {
+    path: '/YAKULT'
+    , name: '¿YAKULT?'
+    , component: () => import('../views/YAKULTView.vue')
+  }
+  ,
+  {
     path: '/sued'
     , name: 'sued'
     , component: HomeView
