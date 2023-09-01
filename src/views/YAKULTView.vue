@@ -2,7 +2,7 @@
     <img class="orkut" alt="Vue resposta" src="../assets/yakult.png">
 
     <div>
-        <a href="orkut.com" class="orkut">¿YAKULTT?</a>
+        <a href="https://web.archive.org/web/20160811153225/http://orkut.google.com/c24481479-t3ffe5ea2583f7286.html" class="orkut">¿YAKULTT?</a>
     </div>
 </template>
 
