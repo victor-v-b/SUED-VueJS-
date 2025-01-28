@@ -1,7 +1,9 @@
 Recriação em versão web do jogo "SUED" dos anos 2000, desenvolvido para windows.
-Feito em VueJs
+Feito em VueJs.
 
-Hospedado atualmente pela Vercel
+Em suma, a proposta do jogo é a de assustar amigos que estejam ao seu lado enquanto joga, fingindo que perguntas são feitas para uma entidade assustadora, quando na verdade é possível injetar as respostas de forma despercebida com o comando ";" ao fazer a interação com o programa.
+
+Hospedado atualmente pela Vercel: https://sued.vercel.app/#/
 
 ## Project setup
 ```
